@@ -1,0 +1,2 @@
+My first project in python.
+Project use state machine and json file support.
