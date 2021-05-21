@@ -1,0 +1,3 @@
+University project limited in time.
+For this reason, some chess rules are omitted and there is a slight mess in the code.
+This is my first project using SFML library.
