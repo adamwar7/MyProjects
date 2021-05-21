@@ -1,2 +1,3 @@
 # MyProjects
-Some of my projects.
+I am a computer science student.
+Here are some of my projects.
